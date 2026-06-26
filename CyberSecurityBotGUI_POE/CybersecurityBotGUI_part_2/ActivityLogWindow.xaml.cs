@@ -2,6 +2,7 @@
 using System.Windows;
 using System.Windows.Media;
 
+// ActivityLog.cs - Tracks all chatbot actions with timestamps
 namespace CybersecurityBotGUI_part_2
 {
     public partial class ActivityLogWindow : Window
