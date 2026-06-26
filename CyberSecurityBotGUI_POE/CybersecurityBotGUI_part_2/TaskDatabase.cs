@@ -2,6 +2,7 @@
 using System;
 using System.Collections.Generic;
 
+// TaskDatabase.cs - Handles all MySQL database operations for task management
 namespace CybersecurityBotGUI_part_2
 {
     public class CyberTask
