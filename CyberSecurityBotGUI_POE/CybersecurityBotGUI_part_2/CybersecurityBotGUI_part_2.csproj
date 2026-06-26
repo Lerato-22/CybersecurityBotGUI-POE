@@ -115,9 +115,6 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Compile>
     <Compile Include="TaskDatabase.cs" />
-    <Compile Include=".xaml.cs">
-      <DependentUpon>TaskWindow.xaml</DependentUpon>
-    </Compile>
     <Page Include="ActivityLogWindow.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
