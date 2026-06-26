@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
+// Responses.cs - NLP simulation and keyword recognition for cybersecurity chatbot
 namespace CybersecurityBotGUI_part_2
 {
     public class Responses
